@@ -1,4 +1,4 @@
-[Welcome Page](https://aclind.github.io/CalArchNet/welcome)
+[Welcome Page](https://aclind.github.io/CalArchNet)
 
 [Past Meetings](https://aclind.github.io/CalArchNet/agendas)
 
