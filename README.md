@@ -26,6 +26,6 @@ If you work in a library, archives, or museum with architectural records and you
  
 ### Next Meeting
 California Polytechnic State University, San Luis Obispo 
-March 30-31, 2018
+March 30-31, 2018.
 
 
