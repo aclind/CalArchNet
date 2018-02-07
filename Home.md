@@ -2,7 +2,7 @@
 
 [Next Meeting](https://aclind.github.io/CalArchNet/nextmeeting)
 
-[Past Meetings](https://aclind.github.io/CalArchNet/minutes)
+[Past Meetings](https://aclind.github.io/CalArchNet/agendas)
 
 [News](https://aclind.github.io/CalArchNet/news)
 
