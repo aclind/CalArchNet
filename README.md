@@ -1,4 +1,4 @@
-# Welcome to the CalArchNet information site!
+# Welcome to the CalArchNet information site
  
 ## The California Architecture Network (CalArchNet) 
  
