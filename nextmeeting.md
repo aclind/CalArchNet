@@ -4,7 +4,7 @@ Dear colleagues,
 
 Final planning is underway for 4th CalArchNet meeting, which will take place on Friday, March 30th (and possibly Saturday, March 31st) in San Luis Obispo and points north. 
 
-## Rough Schedule 
+### Rough Schedule 
 
 ### Friday
 
