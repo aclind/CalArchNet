@@ -2,7 +2,7 @@
 
 Search Online Archive of California (OAC) finding aids with the terms `architect*` (architecture, architect, architectural, etc.) and `ca*` (california, calif., ca, etc.) in subject headings.
 
-## Search collections(keyword e.g. Neutra):
+## Search collections (keyword e.g. Neutra):
 
 <form action="http://www.oac.cdlib.org/search" method="get" id="search-form" target="_blank">
 <input type="hidden" name="subject" value="architect* ca*"/>
@@ -10,6 +10,4 @@ Search Online Archive of California (OAC) finding aids with the terms `architect
 <input type="text" maxlength="200" name="query"/>
 </form>
 
-## or Browse collections:
-
-## <a href="http://www.oac.cdlib.org/search?subject=architect*+ca*&sort=title&query=" target="_blank">Browse collections</a>
+## or <a href="http://www.oac.cdlib.org/search?subject=architect*+ca*&sort=title&query=" target="_blank">Browse collections</a>
