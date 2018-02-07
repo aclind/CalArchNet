@@ -11,7 +11,7 @@ Seek advice
 Build a community committed to standard practices that improve operations and services, and bring greater visibility to collections and programs
  
 ### Goals
-CalArchNet is currently focused exposing California architecture collections and making them easier for researchers at all levels to find. Leveraging existing platforms like the Online Archive of California (OAC) and creating basic records for collections without finding aids are ways CalArchNet is working to make California architectural records more discoverable. 
+CalArchNet is currently focused on exposing California architecture collections and making them easier for researchers at all levels to find. Leveraging existing platforms like the Online Archive of California (OAC) and creating basic records for collections without finding aids are ways CalArchNet is working to make California architectural records more discoverable. 
  
 ### Participating  
 If you work in a library, archives, or museum with architectural records and you would like to join a community working towards these aims and more, simply contact calarchnet@gmail.com or join our [Google Group](https://groups.google.com/forum/#!forum/calarchnet). 
