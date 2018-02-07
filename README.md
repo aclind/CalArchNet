@@ -1,4 +1,9 @@
 # Welcome to the CalArchNet information site
+
+[Next Meeting](https://aclind.github.io/CalArchNet/nextmeeting)
+[Past Meetings](https://aclind.github.io/CalArchNet/minutes)
+[News](https://aclind.github.io/CalArchNet/news)
+[California Architecture Collections Search Portal](https://aclind.github.io/CalArchNet/portal)
  
 ## The California Architectural Archives Network (CalArchNet) 
  
