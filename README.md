@@ -17,7 +17,7 @@ Founded in 2016, CalArchNet (pronounced Cal-Ark-Net) is comprised of library, ar
 * Share information and expertise
 * Seek advice
 * Build a community committed to standard practices that improve operations and services
-* Bbing greater visibility to collections and programs
+* Bring greater visibility to collections and programs
  
 ### Goals
 CalArchNet is currently focused on exposing California architecture collections and making them easier for researchers at all levels to find. Leveraging existing platforms like the Online Archive of California (OAC) and creating basic records for collections without finding aids are ways CalArchNet is working to make California architectural records more discoverable. 
