@@ -1,6 +1,4 @@
 ## Welcome to the CalArchNet information site!
-
-The California Architecture Network (CalArchNet) 
  
 <div id="divtagdefaultwrapper" style="color: rgb(33, 33, 33); font-family: wf_segoe-ui_normal, &quot;Segoe UI&quot;, &quot;Segoe WP&quot;, Tahoma, Arial, sans-serif, serif, EmojiFont; font-size: 15px;">
 <div style="margin: 0px;"><font face="Times New Roman,serif" size="3"><span style="font-size: 12pt;"><font color="black" face="Garamond,serif">The&nbsp;California Architecture Network (CalArchNet)&nbsp;</font></span></font></div>
