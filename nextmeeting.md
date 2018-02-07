@@ -1,3 +1,11 @@
+[Welcome Page](https://aclind.github.io/CalArchNet/welcome)
+
+[Past Meetings](https://aclind.github.io/CalArchNet/agendas)
+
+[News](https://aclind.github.io/CalArchNet/news)
+
+[California Architecture Collections Search Portal](https://aclind.github.io/CalArchNet/portal)
+
 ## 1/24/18 Invitation:
 
 Dear colleagues,
