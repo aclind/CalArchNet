@@ -1,3 +1,11 @@
+[Welcome Page](https://aclind.github.io/CalArchNet/welcome)
+
+[Next Meeting](https://aclind.github.io/CalArchNet/nextmeeting)
+
+[Past Meetings](https://aclind.github.io/CalArchNet/agendas)
+
+[News](https://aclind.github.io/CalArchNet/news)
+
 ## California Architecture Collections Portal
 
 Search Online Archive of California (OAC) finding aids with the terms `architect*` (architecture, architect, architectural, etc.) and `ca*` (california, calif., ca, etc.) in subject headings.
