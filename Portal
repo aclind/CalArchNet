@@ -1,0 +1,11 @@
+<p style="text-align: center;">Search Online Archive of California (OAC) finding aids with the terms `architect*` (architecture, architect, architectural, etc.) and `ca*` (california, calif., ca, etc.) in subject headings.</p>
+
+<p style="text-align: center;"><strong>Search collections (keyword e.g. Neutra):</strong></p>
+
+<form action="http://www.oac.cdlib.org/search" id="search-form" method="get" target="_blank">
+<p style="text-align: center;"><input name="subject" type="hidden" value="architect* ca*" /> <input name="sort" type="hidden" value="title" /> <input maxlength="200" name="query" type="text" />&nbsp;</p>
+</form>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;">or simply <a href="http://www.oac.cdlib.org/search?subject=architect*+ca*&amp;sort=title&amp;query=" target="_blank">Browse collections</a></p>
