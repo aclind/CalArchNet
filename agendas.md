@@ -6,7 +6,7 @@
 
 [California Architecture Collections Search Portal](https://aclind.github.io/CalArchNet/portal)
 
-![10/27/2017 Palm Springs Agenda](/images/CalArchNet Agenda_Final.pdf)
+![10/27/2017 Palm Springs Agenda](https://github.com/aclind/CalArchNet/blob/master/images/calarchnet.png)
 Format: ![Alt Text](url)
 
 ## CalArchNet – October 27, 2017
