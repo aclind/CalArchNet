@@ -30,3 +30,7 @@ California Polytechnic State University, San Luis Obispo
 March 30-31, 2018.
 
 (https://github.com/aclind/CalArchNet/blob/master/images/calarchnet.png)
+
+<p align="center">
+  <img src=https://github.com/aclind/CalArchNet/blob/master/images/calarchnet.png width="350"/>
+</p>
