@@ -11,7 +11,7 @@
 ## The California Architectural Archives Network (CalArchNet) 
 
 <p align="center">
-  <img src=/images/calarchnet.png width="350"/>
+  <img src=https://github.com/aclind/CalArchNet/blob/master/images/calarchnet.png width="350"/>
 </p>
  
 ### Purpose
