@@ -6,6 +6,9 @@
 
 [California Architecture Collections Search Portal](https://aclind.github.io/CalArchNet/portal)
 
+![10/27/2017 Palm Springs Agenda](/images/CalArchNet Agenda_Final.pdf)
+Format: ![Alt Text](url)
+
 ## CalArchNet – October 27, 2017
 
 Palm Springs Art Museum, Architecture and Design Center
