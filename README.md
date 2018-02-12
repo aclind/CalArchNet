@@ -29,4 +29,4 @@ If you work in a library, archives, or museum with architectural records and you
 California Polytechnic State University, San Luis Obispo 
 March 30-31, 2018.
 
-[https://github.com/aclind/CalArchNet/blob/master/images/calarchnet.png]
+(https://github.com/aclind/CalArchNet/blob/master/images/calarchnet.png)
