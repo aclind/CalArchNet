@@ -10,9 +10,7 @@
  
 ## The California Architectural Archives Network (CalArchNet) 
 
-![UCSB Meeting][logo]
-
-[logo]: https://github.com/aclind/CalArchNet/blob/master/images/calarchnet.png "UCSB Meeting"
+![UCSB Meeting] (images/calarchnet.png)
 
 
 
