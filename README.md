@@ -7,6 +7,8 @@
 [News](https://aclind.github.io/CalArchNet/news)
 
 [California Architecture Collections Search Portal](https://aclind.github.io/CalArchNet/portal)
+
+[Photos](https://aclind.github.io/CalArchNet/images)
  
 ## The California Architectural Archives Network (CalArchNet) 
 
