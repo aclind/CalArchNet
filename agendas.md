@@ -9,7 +9,7 @@
 
 ## CalArchNet – October 27, 2017
 
-# Palm Springs Art Museum, Architecture and Design Center
+### Palm Springs Art Museum, Architecture and Design Center
 
 Lorraine Boccardo Archive Study Center
 300 South Palm Canyon Drive, Palm Springs
