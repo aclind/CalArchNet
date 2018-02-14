@@ -29,11 +29,11 @@ What technology would solve all of your problems?
 Survey Topics and Questions that Emerged  
 
 * ACCESS
-  *What do our users want/need in terms of digitization? 
-  *How can we work collaboratively to identify workflows and policies, as well as vendors and affordable technology that can ease this process? 
-  *Are there opportunities to create a one-stop-shop for California architecture? OAC finding aids tagged so they co-locate our collections? Image links from finding aids to local DAMS? Participate in CDL/DPLA effort? Create a portal? Other? Pros and cons?
-  *How is digitization handled at your institution?
-  *What new tech or tech-in-development should we be watching? 
+  * What do our users want/need in terms of digitization? 
+  * How can we work collaboratively to identify workflows and policies, as well as vendors and affordable technology that can ease this process? 
+  * Are there opportunities to create a one-stop-shop for California architecture? OAC finding aids tagged so they co-locate our collections? Image links from finding aids to local DAMS? Participate in CDL/DPLA effort? Create a portal? Other? Pros and cons?
+  * How is digitization handled at your institution?
+  * What new tech or tech-in-development should we be watching? 
  
 * PROCESSING/CATALOGING 
   *How much metadata is enough for findability?
@@ -81,7 +81,6 @@ Survey Topics and Questions that Emerged
 Lorraine Boccardo Archive Study Center
 300 South Palm Canyon Drive, Palm Springs
 
-****************************************************************************************************
 9:00 – 9:30 Coffee/Light Refreshments on Patio
 
 9:30 – 11:00 Welcome/Introductions/Review Activities/Presentations
