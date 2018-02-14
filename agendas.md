@@ -9,7 +9,7 @@
 
 ## CalArchNet – October 27, 2017
 
-Palm Springs Art Museum, Architecture and Design Center
+# Palm Springs Art Museum, Architecture and Design Center
 
 Lorraine Boccardo Archive Study Center
 300 South Palm Canyon Drive, Palm Springs
@@ -34,8 +34,6 @@ Lorraine Boccardo Archive Study Center
   * General discussion: communication between librarians, archivists, curators within our institutions; tips, best practices? How can we help each other?
   * Cal Poly SLO meeting planning (JHolada)
 
-* 2:15 – 2:45 Lorraine Boccardo Archive Study Center Show & Tell Including
-
-Break
+* 2:15 – 2:45 Lorraine Boccardo Archive Study Center Show & Tell Including Break
 
 * 2:45 – 4:00 pm Exhibition Overview & Gallery Tour - Albert Frey and Lina Bo Bardi: A Search for Living Architecture – Daniell Cornell, formerly The Donna & Cargill MacMillan Jr., Director of Art
