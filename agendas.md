@@ -68,9 +68,46 @@ Survey Topics and Questions that Emerged
 
 
 
-## CalArchNet no. 2 – October 27, 2017
+## CalArchNet no. 2 – April 267, 2017
 
 ### Getty Research Institute, Los Angeles
+
+Schedule  
+
+9-10 – Coffee & Continental Breakfast 
+
+10-12 – Meeting
+  * Welcome from Aimee Lind & Jessica Holada
+  * Review of last meeting and current status of statewide initiative we’ve been pursuing since November
+  * Discussion:
+     Suggested topic #1: discoverability/registry options—SNAC, OAC, Calisphere/DPLA, ArchiveGrid, reviving COPAR?
+     Suggested topic #2: digitization opportunities and challenges.
+
+12-1 – Lunch on Your Own
+
+1-2 – Meeting
+  * Discussion
+     Suggested topic #3: rights issues. Have we seen/will we be seeing more Build New requests?
+  * Wrap-Up
+     What would make this group valuable to you? How can we encourage involvement? Tours/Programming? Next meeting? User Needs Forum? Name change? SAA Roundtable Rep?
+
+2-3:30 – Tour of Vaults, Digital Services, Conservation Lab; Special Collections Show & Tell
+
+3:30-4 Exhibition Tour of Berlin/Los Angeles: Space for Music
+
+4-5 Reception
+
+ACCESS
+  * Are there opportunities to create a one-stop-shop for California architecture? OAC finding aids tagged so they co-locate our collections? Image links from finding aids to local DAMS? Participate in CDL/DPLA effort? Create a portal? Other? Pros and cons?
+ 
+RIGHTS
+  * What are the legal absolutes? Can we digitize? What file size? Can someone build from drawings? 
+  * Defining “published”
+  * Is there wiggle room for interpretation? 
+  * Can we come up with standards as a group? 
+  * Do you own the rights to all, some, few of your collections?
+  * How do rights affect your willingness to allow photography and digitization? 
+  * What resources are people relying upon to make decisions?
 
 
 
@@ -78,8 +115,7 @@ Survey Topics and Questions that Emerged
 
 ### Palm Springs Art Museum, Architecture and Design Center
 
-Lorraine Boccardo Archive Study Center
-300 South Palm Canyon Drive, Palm Springs
+Schedule
 
 9:00 – 9:30 Coffee/Light Refreshments on Patio
 
@@ -103,10 +139,8 @@ Lorraine Boccardo Archive Study Center
   * Krisel Map (ALind)
   * General discussion: communication between librarians, archivists, curators within our institutions; tips, best practices? How can we help each other?
   * Cal Poly SLO meeting planning (JHolada)
-  
-
+ 
 2:15 – 2:45 Lorraine Boccardo Archive Study Center Show & Tell Including Break
-
 
 2:45 – 4:00 pm Exhibition Overview & Gallery Tour - Albert Frey and Lina Bo Bardi: A Search for Living Architecture – Daniell Cornell, formerly The Donna & Cargill MacMillan Jr., Director of Art
 
