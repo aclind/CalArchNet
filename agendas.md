@@ -18,9 +18,9 @@ Lorraine Boccardo Archive Study Center
 * 9:00 – 9:30 Coffee/Light Refreshments on Patio
 * 9:30 – 11:00 Welcome/Introductions/Review Activities/Presentations
 
-⋅⋅* Historical and Class One Research – Melissa Riche, Architectural Historian/Writer/Preservationist
-⋅⋅* Historic Site Preservation Board, City of Palm Springs – Dick Burkett, Vice-Chair
-⋅⋅* Q&A
+  * Historical and Class One Research – Melissa Riche, Architectural Historian/Writer/Preservationist
+  * Historic Site Preservation Board, City of Palm Springs – Dick Burkett, Vice-Chair
+  * Q&A
 
 * 11:00 – 11:15 Break
 * 1:15 – 12:30 CalArchNet Discussion Session - Discovery Project Update (ATurner, ALind, FLopez)
