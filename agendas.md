@@ -13,9 +13,13 @@
 
 Schedule  
 10-10:30 – Coffee/Bagels, Purpose of Gathering, Introductions
+
 10:30-11:00 – Tour of Irving Gill Exhibit
+
 11:00-12:30 – Roundtable
+
 12:30-1:30 – Lunch
+
 1:30-3:00 – Continue Discussion, Next Steps, ADC Storage and Image Database
 
 Meeting Opener – A Pie in the Sky Question 
