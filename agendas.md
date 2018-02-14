@@ -40,7 +40,6 @@ Survey Topics and Questions that Emerged
   * What are some strategies you've found that help address the impact of MPLP? 
   * How do we find the right balance?
 
-
 * RIGHTS
   * What are the legal absolutes? Can we digitize? What file size? Can someone build from drawings? 
   * Is there wiggle room for interpretation? 
@@ -68,7 +67,7 @@ Survey Topics and Questions that Emerged
 
 
 
-## CalArchNet no. 2 – April 267, 2017
+## CalArchNet no. 2 – April 26, 2017
 
 ### Getty Research Institute, Los Angeles
 
@@ -79,17 +78,14 @@ Schedule
 10-12 – Meeting
   * Welcome from Aimee Lind & Jessica Holada
   * Review of last meeting and current status of statewide initiative we’ve been pursuing since November
-  * Discussion:
-     Suggested topic #1: discoverability/registry options—SNAC, OAC, Calisphere/DPLA, ArchiveGrid, reviving COPAR?
-     Suggested topic #2: digitization opportunities and challenges.
+  * Discussion: Suggested topic #1: discoverability/registry options—SNAC, OAC, Calisphere/DPLA, ArchiveGrid, reviving COPAR?
+  * Discussion: Suggested topic #2: digitization opportunities and challenges.
 
 12-1 – Lunch on Your Own
 
 1-2 – Meeting
-  * Discussion
-     Suggested topic #3: rights issues. Have we seen/will we be seeing more Build New requests?
-  * Wrap-Up
-     What would make this group valuable to you? How can we encourage involvement? Tours/Programming? Next meeting? User Needs Forum? Name change? SAA Roundtable Rep?
+  * Discussion: Suggested topic #3: rights issues. Have we seen/will we be seeing more Build New requests?
+  * Wrap-Up: What would make this group valuable to you? How can we encourage involvement? Tours/Programming? Next meeting? User Needs Forum? Name change? SAA Roundtable Rep?
 
 2-3:30 – Tour of Vaults, Digital Services, Conservation Lab; Special Collections Show & Tell
 
