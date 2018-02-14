@@ -23,16 +23,16 @@ Lorraine Boccardo Archive Study Center
   * Q&A
 
 * 11:00 – 11:15 Break
-* 1:15 – 12:30 CalArchNet Discussion Session - Discovery Project Update (ATurner, ALind, FLopez)
+* 1:15 – 12:30 CalArchNet Discussion Session
+  * Discovery Project Update (ATurner, ALind, FLopez)
 * 12:30 – 1:30 Lunch – On Your Own
 * 1:30 - 2:15 Open Discussion:
-- SAH session/panel planning (ALind/JHenri)
-- Core architectural journal titles list (ALind)
-- Security: do you have written policies related to the topic of privacy and security and providing access to drawings?
-- Krisel Map (ALind)
-- General discussion: communication between librarians, archivists, curators within our
-institutions—tips, best practices? How can we help each other?
--Cal Poly SLO meeting planning (JHolada)
+  * SAH session/panel planning (ALind/JHenri)
+  * Core architectural journal titles list (ALind)
+  * Security: do you have written policies related to the topic of privacy and security and providing access to drawings?
+  * Krisel Map (ALind)
+  * General discussion: communication between librarians, archivists, curators within our institutions; tips, best practices? How can we help each other?
+  * Cal Poly SLO meeting planning (JHolada)
 
 * 2:15 – 2:45 Lorraine Boccardo Archive Study Center Show & Tell Including
 
