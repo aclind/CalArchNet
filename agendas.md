@@ -12,6 +12,7 @@
 ### UC Santa Barbara, Art, Design & Architecture Museum Architecture and Design Collection
 
 Schedule  
+
 10-10:30 – Coffee/Bagels, Purpose of Gathering, Introductions
 
 10:30-11:00 – Tour of Irving Gill Exhibit
@@ -81,25 +82,32 @@ Lorraine Boccardo Archive Study Center
 300 South Palm Canyon Drive, Palm Springs
 
 ****************************************************************************************************
-* 9:00 – 9:30 Coffee/Light Refreshments on Patio
-* 9:30 – 11:00 Welcome/Introductions/Review Activities/Presentations
+9:00 – 9:30 Coffee/Light Refreshments on Patio
+
+9:30 – 11:00 Welcome/Introductions/Review Activities/Presentations
 
   * Historical and Class One Research – Melissa Riche, Architectural Historian/Writer/Preservationist
   * Historic Site Preservation Board, City of Palm Springs – Dick Burkett, Vice-Chair
   * Q&A
 
-* 11:00 – 11:15 Break
-* 1:15 – 12:30 CalArchNet Discussion Session
+11:00 – 11:15 Break
+
+1:15 – 12:30 CalArchNet Discussion Session
   * Discovery Project Update (ATurner, ALind, FLopez)
-* 12:30 – 1:30 Lunch – On Your Own
-* 1:30 - 2:15 Open Discussion:
+  
+12:30 – 1:30 Lunch – On Your Own
+
+1:30 - 2:15 Open Discussion:
   * SAH session/panel planning (ALind/JHenri)
   * Core architectural journal titles list (ALind)
   * Security: do you have written policies related to the topic of privacy and security and providing access to drawings?
   * Krisel Map (ALind)
   * General discussion: communication between librarians, archivists, curators within our institutions; tips, best practices? How can we help each other?
   * Cal Poly SLO meeting planning (JHolada)
+  
 
-* 2:15 – 2:45 Lorraine Boccardo Archive Study Center Show & Tell Including Break
+2:15 – 2:45 Lorraine Boccardo Archive Study Center Show & Tell Including Break
 
-* 2:45 – 4:00 pm Exhibition Overview & Gallery Tour - Albert Frey and Lina Bo Bardi: A Search for Living Architecture – Daniell Cornell, formerly The Donna & Cargill MacMillan Jr., Director of Art
+
+2:45 – 4:00 pm Exhibition Overview & Gallery Tour - Albert Frey and Lina Bo Bardi: A Search for Living Architecture – Daniell Cornell, formerly The Donna & Cargill MacMillan Jr., Director of Art
+
