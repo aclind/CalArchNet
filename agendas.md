@@ -36,35 +36,35 @@ Survey Topics and Questions that Emerged
   * What new tech or tech-in-development should we be watching? 
  
 * PROCESSING/CATALOGING 
-  *How much metadata is enough for findability?
-  *What are some strategies you've found that help address the impact of MPLP? 
-  *How do we find the right balance?
+  * How much metadata is enough for findability?
+  * What are some strategies you've found that help address the impact of MPLP? 
+  * How do we find the right balance?
 
 
 * RIGHTS
-  *What are the legal absolutes? Can we digitize? What file size? Can someone build from drawings? 
-  *Is there wiggle room for interpretation? 
-  *Can we come up with standards as a group? 
-  *Do you own the rights to all, some, few of your collections?
-  *How do rights affect your willingness to allow photography and digitization? 
-  *What resources are people relying upon to make decisions?
+  * What are the legal absolutes? Can we digitize? What file size? Can someone build from drawings? 
+  * Is there wiggle room for interpretation? 
+  * Can we come up with standards as a group? 
+  * Do you own the rights to all, some, few of your collections?
+  * How do rights affect your willingness to allow photography and digitization? 
+  * What resources are people relying upon to make decisions?
 
 * FUNDING
-  *Creative funding strategies?
-  *Collaborative opportunities? 
-  *How are different institutions doing more with less?
+  * Creative funding strategies?
+  * Collaborative opportunities? 
+  * How are different institutions doing more with less?
 
 * PRACTICES AND POLICIES
-  *What is the best way we can share collecting policies, access policies, handling policies, reproduction/digitization policies, best practices, professional development opportunities? 
+  * What is the best way we can share collecting policies, access policies, handling policies, reproduction/digitization policies, best practices, professional development opportunities? 
 
 
 * NEXT STEPS
-  *Next meeting? Getty on 4/26/17 the day before SCA? (An architecture exhibit will be on display.) Roundtable at SCA after luncheon on 4/29? 
-  *Frequency of meetings?
-  *How official do we want to be?
-  *Can we revive COPAR and/or incorporate some of its goals into our mission?
-  *How do we facilitate remote dialog and information exchange? Listserv? Wiki? Google drive? Directory? Slack? Is there an existing forum we can use?   
-  *What are our next steps/action items?
+  * Next meeting? Getty on 4/26/17 the day before SCA? (An architecture exhibit will be on display.) Roundtable at SCA after luncheon on 4/29? 
+  * Frequency of meetings?
+  * How official do we want to be?
+  * Can we revive COPAR and/or incorporate some of its goals into our mission?
+  * How do we facilitate remote dialog and information exchange? Listserv? Wiki? Google drive? Directory? Slack? Is there an existing forum we can use?   
+  * What are our next steps/action items?
 
 
 
