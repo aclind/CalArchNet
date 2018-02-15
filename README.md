@@ -7,11 +7,8 @@
 [News](https://aclind.github.io/CalArchNet/news)
 
 [California Architecture Collections Search Portal](https://aclind.github.io/CalArchNet/portal)
-
-[Photos](https://aclind.github.io/CalArchNet/images)
  
 ## The California Architectural Archives Network (CalArchNet) 
-
 
 ### Purpose
 Founded in 2016, CalArchNet (pronounced Cal-Ark-Net) is comprised of library, archive, and museum professionals who collect, organize, describe, preserve, promote, interpret, exhibit, and provide access to records about the built environment in California. CalArchNet provides a twice-yearly forum so this group of professionals may:
